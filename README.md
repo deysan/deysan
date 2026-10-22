@@ -6,7 +6,7 @@ I build web products with **React, Next.js, and TypeScript**, bringing 4+ years 
 
 My work spans funnels and checkout, frontend performance, testing, CMS automation, and targeted server-side changes. I use AI-assisted workflows with human review and validation.
 
-[LinkedIn](https://www.linkedin.com/in/deysan/) · [Telegram](https://t.me/deysan) · [Email](mailto:ideysan@gmail.com)
+[Web resume](https://deysan.github.io/resume/) · [LinkedIn](https://www.linkedin.com/in/deysan/) · [Telegram](https://t.me/deysan) · [Email](mailto:ideysan@gmail.com)
 
 ## What I work on
 
