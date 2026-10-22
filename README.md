@@ -29,6 +29,8 @@ My work spans funnels and checkout, frontend performance, testing, CMS automatio
 **Promova — Full-Stack Engineer (Frontend-focused)**  
 February 2025 – August 2026
 
+During my time at Promova, I contributed through my work account: [@adeisan](https://github.com/adeisan).
+
 - Developed marketing funnels, personalized flows, and AI Tutor frontend features with product, design, backend, and ML colleagues.
 - Improved Solidgate checkout and Apple Pay web behavior, asset/data loading, analytics delivery, testing, and monitoring.
 - Built Strapi/GrowthBook tools, CMS previews, funnel visualization, and localized sales-page automation.
@@ -67,4 +69,5 @@ Earlier: **Lumi-Dent — Webmaster / Content Manager** · May 2018 – July 2021
 Recent learning: **Agentic Engineering Workflows** workshop (SULICOM AI Academy, October 2026), **Front-end Architecture** lecture series (Genesis Tech, April 2026), and **Anthropic foundational courses** (December 2025).
 
 **Languages:** Ukrainian — native · English — B1 / Intermediate.
+
 
