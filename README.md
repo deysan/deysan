@@ -1,16 +1,70 @@
-<h1 align="center">Hi 👋, I'm Andrii</h1>
-<h3 align="center">I'm frontend developer from Kyiv, Ukraine.</h3>
+# Hi, I'm Andrii Deisan
 
-- 🌱 I’m currently learning **react, node.js and algorithms**
+**Product Engineer · Frontend-focused · Ukraine**
 
-- 💬 Ask me about **html, css, javascript and react**
+I build web products with **React, Next.js, and TypeScript**, bringing 4+ years of experience across product features, experimentation, personalization, and e-commerce. I work closely with product, design, backend, and ML teams to turn ideas into useful, maintainable experiences.
 
-- 📫 How to reach me **ideysan@gmail.com**
+My work spans funnels and checkout, frontend performance, testing, CMS automation, and targeted server-side changes. I use AI-assisted workflows with human review and validation.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/deysan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deysan" height="30" width="40" /></a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/deysan/) · [Telegram](https://t.me/deysan) · [Email](mailto:ideysan@gmail.com)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+## What I work on
+
+- **Product experiences:** personalized journeys, marketing funnels, checkout, and AI-powered frontend features.
+- **Experimentation and CMS:** GrowthBook, A/B testing, Strapi plugins, content previews, and localization automation.
+- **Quality and performance:** runtime validation, unit tests, bundle optimization, SSR, and build tooling.
+- **AI-assisted engineering:** Claude Code, Codex, MCP integrations, and practical automation. Currently exploring spec-driven development and agentic workflows.
+
+## Selected projects
+
+| Project | What it does | Stack / focus |
+| --- | --- | --- |
+| [MirrorCube](https://github.com/deysan/mirror-cube) · [Live demo](https://mirror-cube.netlify.app/) | Interactive 2×2 Mirror Cube solver with animated instructions in English and Ukrainian. | React, TypeScript, Three.js, React Three Fiber, Web Workers |
+| [Product Catalog Editor](https://github.com/deysan/product-catalog-editor) | Learning project for spec-driven development with Codex; currently implements catalog loading, validation, and UI states. | React, TypeScript, Zustand, Vitest |
+| [ORBIT](https://github.com/deysan/orbit-3d-landing) | A presentation-only 3D landing page for a fictional AI workspace, with a custom Blender asset. | Next.js, React Three Fiber, Blender MCP |
+| [Dotworks](https://github.com/deysan/dotworks) · [Live demo](https://deysan.github.io/dotworks/) | A small workspace with a Pomodoro timer, local notes, and an interactive CSS builder. | HTML, CSS, vanilla JavaScript |
+
+## Experience
+
+**Promova — Full-Stack Engineer (Frontend-focused)**  
+February 2025 – August 2026
+
+- Developed marketing funnels, personalized flows, and AI Tutor frontend features with product, design, backend, and ML colleagues.
+- Improved Solidgate checkout and Apple Pay web behavior, asset/data loading, analytics delivery, testing, and monitoring.
+- Built Strapi/GrowthBook tools, CMS previews, funnel visualization, and localized sales-page automation.
+- Developed frontend-to-CMS MCP workflows and tools for quiz design, creative generation, and ad research.
+
+**Memcrab — Frontend Engineer**  
+September 2022 – February 2025
+
+- Built drag-and-drop page composition and e-commerce catalog, search, cart, delivery, and admin features.
+- Improved client bundles, migrated Webpack to Rspack, and maintained React SSR and localization.
+- Connected Zod runtime validation with TypeScript types; maintained typed Redux/reselect selectors and unit tests.
+
+**HolyWater — Frontend Developer**  
+January 2022 – June 2022
+
+- Built React/TypeScript features, integrated REST and GraphQL APIs, and worked with Redux Toolkit, Effector, and Feature-Sliced Design.
+
+Earlier: **Lumi-Dent — Webmaster / Content Manager** · May 2018 – July 2021. Website content, SEO, and HTML/CSS improvements.
+
+## Technologies
+
+| Area | Tools |
+| --- | --- |
+| Frontend | React, Next.js, TypeScript, JavaScript, HTML, CSS, Motion |
+| State & validation | React Query, Redux, Redux Toolkit, reselect, Zod |
+| APIs & CMS | REST, GraphQL, Strapi, Node.js for SSR and CMS tooling |
+| Experimentation & analytics | GrowthBook, A/B testing, Amplitude, GTM, Meta Pixel/CAPI, SQL, BigQuery |
+| Quality & tooling | Jest, Vitest, Git, Webpack, Rspack, ESLint, Oxlint |
+| Localization | Internationalization (i18n), Lingui |
+| AI & automation | Claude Code, Codex, MCP, AI-assisted development |
+
+## Education & learning
+
+**Master's degree in Mechanical Engineering** — NTUU “Igor Sikorsky Kyiv Polytechnic Institute”, 2010–2016.
+
+Recent learning: **Agentic Engineering Workflows** workshop (SULICOM AI Academy, October 2026), **Front-end Architecture** lecture series (Genesis Tech, April 2026), and **Anthropic foundational courses** (December 2025).
+
+**Languages:** Ukrainian — native · English — B1 / Intermediate.
+
