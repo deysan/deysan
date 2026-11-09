@@ -1,8 +1,8 @@
 # Hi, I'm Andrii Deisan
 
-**Product Engineer · Frontend-focused · Ukraine**
+**Product Engineer · Product-minded · Ukraine**
 
-I build web products with **React, Next.js, and TypeScript**, bringing 4+ years of experience across product features, experimentation, personalization, and e-commerce. I work closely with product, design, backend, and ML teams to turn ideas into useful, maintainable experiences.
+I’m a product-minded engineer with 4+ years of experience building web products with **React, Next.js, and TypeScript**. My work spans product features, experimentation, personalization, and e-commerce. I work closely with product, design, backend, and ML teams to connect technical decisions with user needs and business goals.
 
 My work spans funnels and checkout, frontend performance, testing, CMS automation, and targeted server-side changes. I use AI-assisted workflows with human review and validation.
 
@@ -26,7 +26,7 @@ My work spans funnels and checkout, frontend performance, testing, CMS automatio
 
 ## Experience
 
-**Promova — Full-Stack Engineer (Frontend-focused)**  
+**Promova — Full-Stack Engineer**  
 February 2025 – August 2026
 
 During my time at Promova, I contributed through my work account: [@adeisan](https://github.com/adeisan).
@@ -69,5 +69,6 @@ Earlier: **Lumi-Dent — Webmaster / Content Manager** · May 2018 – July 2021
 Recent learning: **Agentic Engineering Workflows** workshop (SULICOM AI Academy, October 2026), **Front-end Architecture** lecture series (Genesis Tech, April 2026), and **Anthropic foundational courses** (December 2025).
 
 **Languages:** Ukrainian — native · English — B1 / Intermediate.
+
 
 
