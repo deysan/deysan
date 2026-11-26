@@ -13,7 +13,7 @@ I work closely with product, design, backend, and ML teams to connect technical 
 - **Backend & data:** Go/Fiber services, Node.js (Strapi plugins, Hono), MongoDB indexing, BigQuery SQL, webhooks and idempotency.
 - **Product:** funnels, checkout, and A/B-tested features.
 - **AI engineering:** MCP servers, OpenAI-based tools, and agentic workflows.
-- **Quality:** Vitest, Playwright, and GitHub Actions.
+- **Delivery & quality:** CI/CD with GitHub Actions, Docker, Cloudflare Workers, AWS and Vercel; Vitest, Playwright, Grafana.
 
 ## Selected projects
 
@@ -57,14 +57,15 @@ Earlier: **Lumi-Dent — Webmaster / Content Manager** · May 2018 – July 2021
 
 | Area | Tools |
 | --- | --- |
-| Frontend | React, Next.js, TypeScript, React Query, Zod |
-| Backend | Node.js, Go/Fiber, Hono, Express, NestJS (learning), REST, GraphQL |
-| Data | MongoDB, SQL, BigQuery, SQLite/D1 |
+| Frontend | React, Next.js, TypeScript, JavaScript, HTML/CSS, React Query, Zod |
+| Backend | Node.js, Go/Fiber, Hono, Express, NestJS (learning), REST APIs, GraphQL |
+| Data | MongoDB, PostgreSQL, SQL, BigQuery, SQLite/D1 |
 | AI | MCP, OpenAI API, Claude Code, Codex |
-| State & UI | Redux, Redux Toolkit, reselect, JavaScript, HTML, CSS, Motion |
+| State & UI | Redux, Redux Toolkit, reselect, Motion |
 | CMS & experimentation | Strapi, GrowthBook, A/B testing |
 | Analytics | Amplitude, GTM, Meta Pixel/CAPI |
-| Quality & tooling | Jest, Vitest, Playwright, GitHub Actions, Git, Webpack, Rspack, ESLint, Oxlint |
+| Cloud & delivery | CI/CD (GitHub Actions), Docker, Cloudflare (Workers, D1), AWS, Vercel, Grafana, Prometheus |
+| Quality & tooling | Jest, Vitest, Playwright, Git, Webpack, Rspack, ESLint, Oxlint |
 | Localization | Internationalization (i18n), Lingui |
 
 ## Education & learning
