@@ -1,28 +1,28 @@
 # Hi, I'm Andrii Deisan
 
-**Product Engineer · Product-minded · Ukraine**
+**Full Stack / Product Engineer · AI-first · Ukraine · Remote**
 
-I’m a product-minded engineer with 4+ years of experience building web products with **React, Next.js, and TypeScript**. My work spans product features, experimentation, personalization, and e-commerce. I work closely with product, design, backend, and ML teams to connect technical decisions with user needs and business goals.
+I’m a Full Stack / Product Engineer with 4+ years of building product web apps in **TypeScript**: **React and Next.js** on the frontend, **Node.js and Go** on the server. I work AI-first: I build MCP servers and LLM-powered tools and develop with Claude Code and Codex, keeping specs, tests and review in my own hands.
 
-My work spans funnels and checkout, frontend performance, testing, CMS automation, and targeted server-side changes. I use AI-assisted workflows with human review and validation.
+I work closely with product, design, backend, and ML teams to connect technical decisions with user needs and business goals.
 
 [Web resume](https://deysan.github.io/resume/) · [LinkedIn](https://www.linkedin.com/in/deysan/) · [Telegram](https://t.me/deysan) · [Email](mailto:ideysan@gmail.com)
 
 ## What I work on
 
-- **Product experiences:** personalized journeys, marketing funnels, checkout, and AI-powered frontend features.
-- **Experimentation and CMS:** GrowthBook, A/B testing, Strapi plugins, content previews, and localization automation.
-- **Quality and performance:** runtime validation, unit tests, bundle optimization, SSR, and build tooling.
-- **AI-assisted engineering:** Claude Code, Codex, MCP integrations, and practical automation. Currently exploring spec-driven development and agentic workflows.
+- **Backend & data:** Go/Fiber services, Node.js (Strapi plugins, Hono), MongoDB indexing, BigQuery SQL, webhooks and idempotency.
+- **Product:** funnels, checkout, and A/B-tested features.
+- **AI engineering:** MCP servers, OpenAI-based tools, and agentic workflows.
+- **Quality:** Vitest, Playwright, and GitHub Actions.
 
 ## Selected projects
 
 | Project | What it does | Stack / focus |
 | --- | --- | --- |
+| [Unicorn](https://github.com/deysan/unicorn-funnel-analytics) | Quiz & Funnel Analytics: a quiz funnel with an analytics report. | React, Hono API on Cloudflare Workers, D1/SQLite, Zod, Vitest, Playwright, CI |
+| [NestJS RealWorld API](https://github.com/deysan/nestjs-realworld-api) | In progress, learning project: a RealWorld-spec backend API. | NestJS, TypeScript, Node.js |
 | [MirrorCube](https://github.com/deysan/mirror-cube) · [Live demo](https://mirror-cube.netlify.app/) | Interactive 2×2 Mirror Cube solver with animated instructions in English and Ukrainian. | React, TypeScript, Three.js, React Three Fiber, Web Workers |
 | [Product Catalog Editor](https://github.com/deysan/product-catalog-editor) | Learning project for spec-driven development with Codex; currently implements catalog loading, validation, and UI states. | React, TypeScript, Zustand, Vitest |
-| [ORBIT](https://github.com/deysan/orbit-3d-landing) | A presentation-only 3D landing page for a fictional AI workspace, with a custom Blender asset. | Next.js, React Three Fiber, Blender MCP |
-| [Dotworks](https://github.com/deysan/dotworks) · [Live demo](https://deysan.github.io/dotworks/) | A small workspace with a Pomodoro timer, local notes, and an interactive CSS builder. | HTML, CSS, vanilla JavaScript |
 
 ## Experience
 
@@ -34,11 +34,14 @@ During my time at Promova, I contributed through my work account: [@adeisan](htt
 - Developed marketing funnels, personalized flows, and AI Tutor frontend features with product, design, backend, and ML colleagues.
 - Improved Solidgate checkout and Apple Pay web behavior, asset/data loading, analytics delivery, testing, and monitoring.
 - Built Strapi/GrowthBook tools, CMS previews, funnel visualization, and localized sales-page automation.
-- Developed frontend-to-CMS MCP workflows and tools for quiz design, creative generation, and ad research.
+- Led Meta Pixel/CAPI signal quality across the browser, Go/Fiber backend, MongoDB and BigQuery: Purchase Event Match Quality 7.7 → 8.3/10, purchases without ad_id 19.2% → 4.7%.
+- Reworked Strapi content loading with selective populate and fixed out-of-memory crashes: article loading from 8+ seconds to milliseconds.
+- Built AI tooling: MCP servers that turn frontend screens into CMS schemas, creative-generation and ad-research tools, and an OpenAI translation plugin for the CMS.
 
 **Memcrab — Frontend Engineer**  
 September 2022 – February 2025
 
+- Only developer on one of the projects; React SSR on a Node.js/Express server.
 - Built drag-and-drop page composition and e-commerce catalog, search, cart, delivery, and admin features.
 - Improved client bundles, migrated Webpack to Rspack, and maintained React SSR and localization.
 - Connected Zod runtime validation with TypeScript types; maintained typed Redux/reselect selectors and unit tests.
@@ -54,13 +57,15 @@ Earlier: **Lumi-Dent — Webmaster / Content Manager** · May 2018 – July 2021
 
 | Area | Tools |
 | --- | --- |
-| Frontend | React, Next.js, TypeScript, JavaScript, HTML, CSS, Motion |
-| State & validation | React Query, Redux, Redux Toolkit, reselect, Zod |
-| APIs & CMS | REST, GraphQL, Strapi, Node.js for SSR and CMS tooling |
-| Experimentation & analytics | GrowthBook, A/B testing, Amplitude, GTM, Meta Pixel/CAPI, SQL, BigQuery |
-| Quality & tooling | Jest, Vitest, Git, Webpack, Rspack, ESLint, Oxlint |
+| Frontend | React, Next.js, TypeScript, React Query, Zod |
+| Backend | Node.js, Go/Fiber, Hono, Express, NestJS (learning), REST, GraphQL |
+| Data | MongoDB, SQL, BigQuery, SQLite/D1 |
+| AI | MCP, OpenAI API, Claude Code, Codex |
+| State & UI | Redux, Redux Toolkit, reselect, JavaScript, HTML, CSS, Motion |
+| CMS & experimentation | Strapi, GrowthBook, A/B testing |
+| Analytics | Amplitude, GTM, Meta Pixel/CAPI |
+| Quality & tooling | Jest, Vitest, Playwright, GitHub Actions, Git, Webpack, Rspack, ESLint, Oxlint |
 | Localization | Internationalization (i18n), Lingui |
-| AI & automation | Claude Code, Codex, MCP, AI-assisted development |
 
 ## Education & learning
 
